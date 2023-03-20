@@ -1,2 +1,2 @@
 # TP7_FIFO
-source code of fifo composant written in VHDL
+source code of Fifo component written in VHDL
